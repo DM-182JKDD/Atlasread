@@ -1,0 +1,61 @@
+{
+    "book_id": 22,
+    "book_title": "La Cruz como Camino",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué simboliza la cruz en esta historia?",
+            "options": [
+                "a) La muerte",
+                "b) El sacrificio y el amor",
+                "c) El poder militar",
+                "d) La riqueza"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué representa cargar con la cruz según el mensaje del texto?",
+            "options": [
+                "a) Cargar con problemas personales",
+                "b) Vivir con dignidad y esperanza ayudando a otros",
+                "c) Ser castigado por errores del pasado",
+                "d) Buscar fama y reconocimiento"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Cuál es el mensaje principal de este relato?",
+            "options": [
+                "a) Que todos debemos tener fe",
+                "b) Que hay que aceptar nuestra vida con humildad y servicio",
+                "c) Que el dinero lo resuelve todo",
+                "d) Que hay que huir de la responsabilidad"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo se describe el camino que se debe recorrer con la cruz?",
+            "options": [
+                "a) Fácil y lleno de lujos",
+                "b) Largo y solitario",
+                "c) De dolor y soledad",
+                "d) De entrega, amor y servicio"
+            ],
+            "correct_answer": 4
+        },
+        {
+            "id": 5,
+            "question": "¿A quién ayuda quien lleva la cruz?",
+            "options": [
+                "a) Solo a sí mismo",
+                "b) A los más poderosos",
+                "c) A los que sufren y necesitan apoyo",
+                "d) A los animales perdidos"
+            ],
+            "correct_answer": 3
+        }
+    ]
+}

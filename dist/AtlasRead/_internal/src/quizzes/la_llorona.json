@@ -1,0 +1,61 @@
+{
+    "book_id": 25,
+    "book_title": "La Llorona",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Quién es la Llorona según la leyenda?",
+            "options": [
+                "a) Una bruja malvada",
+                "b) Una mujer que llora buscando a sus hijos",
+                "c) Una reina triste",
+                "d) Una madre feliz"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué se dice que llora la Llorona?",
+            "options": [
+                "a) Por haber perdido a sus hijos",
+                "b) Por estar sola",
+                "c) Por haberlos ahogado por error o maldad",
+                "d) Por no tener hogar"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 3,
+            "question": "¿Qué advertencia se transmite con esta leyenda?",
+            "options": [
+                "a) Que no se debe ir al río",
+                "b) Que los niños no deben salir solos de noche",
+                "c) Que los fantasmas existen",
+                "d) Que el amor puede llevar al pecado"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Dónde se dice que aparece la Llorona?",
+            "options": [
+                "a) En bosques oscuros",
+                "b) En caminos abandonados",
+                "c) Junto a ríos y lagos",
+                "d) En cementerios"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 5,
+            "question": "¿Qué sentimientos representan la historia de la Llorona?",
+            "options": [
+                "a) Alegría y libertad",
+                "b) Amor y felicidad",
+                "c) Culpa, dolor y remordimiento",
+                "d) Odio y venganza"
+            ],
+            "correct_answer": 3
+        }
+    ]
+}

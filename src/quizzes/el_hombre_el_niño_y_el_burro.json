@@ -1,0 +1,61 @@
+{
+    "book_id": 15,
+    "book_title": "El Hombre, el Niño y el Burro",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué crítica esta fábula sobre el comportamiento humano?",
+            "options": [
+                "a) La ambición desmedida",
+                "b) El miedo al qué dirán",
+                "c) La falta de respeto hacia los animales",
+                "d) La codicia"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué hacen al principio el hombre y el niño con el burro?",
+            "options": [
+                "a) Lo venden",
+                "b) Caminan junto a él",
+                "c) El niño monta y el hombre camina",
+                "d) El hombre monta y el niño camina"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Por qué deciden cambiar de posición al burro?",
+            "options": [
+                "a) Porque el burro se cansa",
+                "b) Por las críticas de los demás",
+                "c) Porque llueve",
+                "d) Porque el niño se queja"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Qué hacen al final del cuento con el burro?",
+            "options": [
+                "a) Lo dejan libre",
+                "b) Los tres caminan juntos",
+                "c) Los vecinos se lo roban",
+                "d) Lo llevan al mercado"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la moraleja principal de esta fábula?",
+            "options": [
+                "a) Obedecer siempre a los mayores",
+                "b) No hacer caso a las opiniones de todos",
+                "c) Ser amables con los animales",
+                "d) Escuchar siempre a los vecinos"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

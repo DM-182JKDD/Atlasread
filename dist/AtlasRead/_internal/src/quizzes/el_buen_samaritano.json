@@ -1,0 +1,61 @@
+{
+    "book_id": 14,
+    "book_title": "El Buen Samaritano",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Quién ayuda al hombre herido en el camino según la parábola?",
+            "options": [
+                "a) Un sacerdote",
+                "b) Un levita",
+                "c) Un samaritano",
+                "d) Un rey"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 2,
+            "question": "¿Por dónde pasa el hombre que es asaltado?",
+            "options": [
+                "a) De Jerusalén a Belén",
+                "b) De Jericó a Jerusalén",
+                "c) De Galilea a Roma",
+                "d) De Egipto a Siria"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué hacen el sacerdote y el levita cuando ven al hombre herido?",
+            "options": [
+                "a) Lo ayudan de inmediato",
+                "b) Lo ignoran y pasan de largo",
+                "c) Le dan agua pero no lo tocan",
+                "d) Llaman a otros viajeros"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Dónde lleva el buen samaritano al herido?",
+            "options": [
+                "a) A su casa",
+                "b) A una posada",
+                "c) Al templo",
+                "d) Al palacio real"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es el mensaje principal de esta parábola?",
+            "options": [
+                "a) Que hay que evitar viajar solos",
+                "b) Que debemos ayudar a quienes lo necesitan sin importar su origen",
+                "c) Que los religiosos deben ser ejemplos",
+                "d) Que los caminos son peligrosos"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

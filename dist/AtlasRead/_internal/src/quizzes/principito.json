@@ -1,0 +1,61 @@
+{
+    "book_id": 30,
+    "book_title": "El Principito",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿De dónde viene el Principito?",
+            "options": [
+                "a) De la Tierra",
+                "b) De un planeta pequeño",
+                "c) De Marte",
+                "d) De un castillo encantado"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué le pide el Principito al aviador?",
+            "options": [
+                "a) Comida",
+                "b) Agua",
+                "c) Dibujar un cordero",
+                "d) Un libro"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 3,
+            "question": "¿Con quién establece una amistad en su viaje?",
+            "options": [
+                "a) Con un caballo",
+                "b) Con un zorro",
+                "c) Con un león",
+                "d) Con un mono"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Qué le enseña el zorro al Principito?",
+            "options": [
+                "a) A volar",
+                "b) A domesticar",
+                "c) A sobrevivir",
+                "d) A leer"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la famosa frase que aprende el Principito?",
+            "options": [
+                "a) 'Solo se ve bien con el corazón. Lo esencial es invisible a los ojos.'",
+                "b) 'La vida es corta, vive feliz'",
+                "c) 'Nunca confíes en extraños'",
+                "d) 'Todo lo que brilla no es oro'"
+            ],
+            "correct_answer": 1
+        }
+    ]
+}

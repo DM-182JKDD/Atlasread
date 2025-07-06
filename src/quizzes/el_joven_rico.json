@@ -1,0 +1,61 @@
+{
+    "book_id": 17,
+    "book_title": "El Joven Rico",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué pregunta el joven rico a Jesús?",
+            "options": [
+                "a) ¿Cómo ganar dinero?",
+                "b) ¿Cómo tener poder político?",
+                "c) ¿Qué hacer para tener vida eterna?",
+                "d) ¿Dónde encontrar oro?"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 2,
+            "question": "¿Qué mandamientos menciona Jesús como importantes?",
+            "options": [
+                "a) Amar al prójimo",
+                "b) No matar, no mentir, honrar a tus padres",
+                "c) Ayudar a los pobres",
+                "d) Compartir tu riqueza"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué le pide Jesús al joven rico para seguirlo?",
+            "options": [
+                "a) Que viaje con él",
+                "b) Que venda sus bienes y ayude a los pobres",
+                "c) Que construya una iglesia",
+                "d) Que aprenda a pescar"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo reacciona el joven rico ante esta petición?",
+            "options": [
+                "a) Se alegra y obedece",
+                "b) Se enfurece y se va",
+                "c) Se entristece y se aleja",
+                "d) Le da dinero a Jesús"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la idea principal del mensaje de Jesús sobre este caso?",
+            "options": [
+                "a) Los ricos son mejores que los pobres",
+                "b) La riqueza no garantiza la felicidad eterna",
+                "c) Solo los pobres van al cielo",
+                "d) Es fácil ser rico y justo"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

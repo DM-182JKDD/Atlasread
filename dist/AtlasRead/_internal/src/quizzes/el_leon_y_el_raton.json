@@ -1,0 +1,61 @@
+{
+    "book_id": 19,
+    "book_title": "El León y el Ratón",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué hace el ratón cuando encuentra al león dormido?",
+            "options": [
+                "a) Lo despierta gritando",
+                "b) Lo ayuda a levantarse",
+                "c) Corre sin hacer ruido",
+                "d) Lo pisa accidentalmente"
+            ],
+            "correct_answer": 4
+        },
+        {
+            "id": 2,
+            "question": "¿Qué decide hacer el león con el ratón tras despertar molesto?",
+            "options": [
+                "a) Lo come",
+                "b) Lo deja ir",
+                "c) Lo encierra",
+                "d) Lo convierte en su amigo"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué le pasa al león más tarde?",
+            "options": [
+                "a) Se enferma",
+                "b) Se cae en una trampa",
+                "c) Se pierde en el bosque",
+                "d) Es atacado por otros animales"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo ayuda el ratón al león?",
+            "options": [
+                "a) Le da comida",
+                "b) Le indica el camino",
+                "c) Corta las redes con sus dientes",
+                "d) Llama a otros animales"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la enseñanza de esta fábula?",
+            "options": [
+                "a) Los grandes siempre ayudan a los pequeños",
+                "b) Nunca subestimes a los pequeños",
+                "c) Los animales nunca deben ser amigos",
+                "d) La fuerza física lo resuelve todo"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

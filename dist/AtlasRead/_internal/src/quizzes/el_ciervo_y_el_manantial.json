@@ -1,0 +1,61 @@
+{
+    "book_id": 16,
+    "book_title": "El Ciervo y el Manantial",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Por qué el ciervo se mira en el agua del manantial?",
+            "options": [
+                "a) Para ver si hay comida",
+                "b) Porque tiene sed",
+                "c) Para admirar su reflejo",
+                "d) Para esconderse"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 2,
+            "question": "¿Qué parte del cuerpo alaba primero el ciervo de su reflejo?",
+            "options": [
+                "a) Sus patas",
+                "b) Su cola",
+                "c) Sus astas",
+                "d) Sus ojos"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 3,
+            "question": "¿Cuál parte del cuerpo critica el ciervo de sí mismo?",
+            "options": [
+                "a) Sus astas",
+                "b) Su cabeza",
+                "c) Sus patas",
+                "d) Su cola"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 4,
+            "question": "¿Qué lo pone en peligro al final del cuento?",
+            "options": [
+                "a) Su lentitud",
+                "b) Sus astas enredadas en ramas",
+                "c) Su sed",
+                "d) Sus patas débiles"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la moraleja del cuento?",
+            "options": [
+                "a) Las apariencias engañan",
+                "b) No debes mirarte mucho en el agua",
+                "c) Todo tiene valor, incluso lo que parece insignificante",
+                "d) Ser rápido salva vidas"
+            ],
+            "correct_answer": 3
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "book_id": 6,
+    "book_title": "Don Quijote de la Mancha",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Por qué Alonso Quijano decidió convertirse en caballero andante?",
+            "options": [
+                "a) Porque quería ser famoso",
+                "b) Porque leyó tantos libros de caballerías que empezó a creerse uno",
+                "c) Porque Dulcinea se lo pidió",
+                "d) Porque Sancho Panza lo convenció"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Cómo se llama el caballo de Don Quijote?",
+            "options": [
+                "a) Clavileño",
+                "b) Rocinante",
+                "c) Babieca",
+                "d) Pegaso"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué prometió Don Quijote a Sancho Panza para que lo acompañara?",
+            "options": [
+                "a) Una armadura nueva",
+                "b) Ser gobernador de una isla",
+                "c) Un caballo fuerte",
+                "d) Riquezas infinitas"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Qué vio Don Quijote cuando atacó los molinos de viento?",
+            "options": [
+                "a) Pensó que eran gigantes malvados",
+                "b) Pensó que eran castillos enemigos",
+                "c) Pensó que eran dragones",
+                "d) Pensó que eran brujas"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "id": 5,
+            "question": "¿Qué sucede al final de la historia con Don Quijote?",
+            "options": [
+                "a) Se convierte en rey",
+                "b) Recupera la razón y muere tranquilo",
+                "c) Se casa con Dulcinea",
+                "d) Viaja a América"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

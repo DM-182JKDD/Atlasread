@@ -1,0 +1,61 @@
+{
+    "book_id": 26,
+    "book_title": "La Mujer Adultera",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué hicieron los escribas y fariseos con la mujer?",
+            "options": [
+                "a) Le pidieron consejo",
+                "b) La llevaron ante Jesús acusándola de adulterio",
+                "c) La dejaron ir libre",
+                "d) La invitaron a comer"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué ley usaban los judíos para castigar el adulterio?",
+            "options": [
+                "a) El derecho romano",
+                "b) La ley de Moisés",
+                "c) La costumbre popular",
+                "d) La palabra de los testigos"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué les dice Jesús antes de escribir en el suelo?",
+            "options": [
+                "a) 'Dejad que se vaya quien tenga dinero'",
+                "b) 'Dejad que se vaya quien no haya pecado'",
+                "c) 'Dejad que se vaya quien lo desee'",
+                "d) 'Dejad que se vaya quien tenga poder'"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo reacciona la multitud ante las palabras de Jesús?",
+            "options": [
+                "a) Se enojan y lo arrestan",
+                "b) Se van uno por uno, empezando por los más viejos",
+                "c) Lo felicitan por su sabiduría",
+                "d) Llaman a más testigos"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Qué le dice Jesús a la mujer al final?",
+            "options": [
+                "a) 'Vete y no vuelvas a pecar'",
+                "b) 'Vete y denuncia a tus acusadores'",
+                "c) 'Quedas libre y perdonada'",
+                "d) 'Vuelve a tu casa y ora'"
+            ],
+            "correct_answer": 1
+        }
+    ]
+}

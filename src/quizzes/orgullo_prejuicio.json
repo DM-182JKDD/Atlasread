@@ -1,0 +1,61 @@
+{
+    "book_id": 5,
+    "book_title": "Orgullo y prejuicio",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Cuál era la principal preocupación de la señora Bennet?",
+            "options": [
+                "a) Ser aceptada por la alta sociedad",
+                "b) Casar a sus hijas con hombres ricos",
+                "c) Viajar por toda Inglaterra",
+                "d) Aprender a leer y escribir"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué Elizabeth rechazó la primera propuesta del Sr. Darcy?",
+            "options": [
+                "a) Porque no quería casarse nunca",
+                "b) Porque estaba llena de orgullo y prejuicios contra él",
+                "c) Porque ya estaba comprometida",
+                "d) Porque Darcy era muy pobre"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué hizo el Sr. Darcy para ayudar a la familia Bennet?",
+            "options": [
+                "a) Compró una casa para ellas",
+                "b) Pagó a Wickham para que se casara con Lydia",
+                "c) Les prestó dinero para un negocio",
+                "d) Se mudó lejos para evitar problemas"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo cambió la opinión de Elizabeth sobre Darcy?",
+            "options": [
+                "a) Al ver que era muy rico",
+                "b) Al leer la carta que le escribió y conocer la verdad",
+                "c) Porque él se disculpó públicamente",
+                "d) Porque Wickham le habló bien de Darcy"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Qué demuestra el final de la historia entre Elizabeth y Darcy?",
+            "options": [
+                "a) Que el orgullo y los prejuicios son necesarios",
+                "b) Que el amor verdadero puede superar errores y malentendidos",
+                "c) Que el dinero siempre soluciona todo",
+                "d) Que es mejor no casarse nunca"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

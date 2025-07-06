@@ -1,0 +1,61 @@
+{
+    "book_id": 24,
+    "book_title": "La Leyenda del Maíz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué representa el maíz en muchas culturas indígenas?",
+            "options": [
+                "a) Un simple alimento",
+                "b) Un ser sagrado que da vida",
+                "c) Una planta venenosa",
+                "d) Un regalo de los dioses del mar"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Para qué usan el maíz los pueblos originarios?",
+            "options": [
+                "a) Solo para comer",
+                "b) En ceremonias, comida y rituales",
+                "c) Para construir casas",
+                "d) Para hacer juguetes"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿De dónde proviene el maíz según la leyenda?",
+            "options": [
+                "a) Del cielo",
+                "b) De un árbol mágico",
+                "c) De las entrañas de la tierra",
+                "d) De un antiguo dios"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 4,
+            "question": "¿Qué valor refleja la relación entre el hombre y el maíz en la leyenda?",
+            "options": [
+                "a) El individualismo",
+                "b) El respeto a la naturaleza",
+                "c) El dominio sobre la tierra",
+                "d) El desprecio por lo antiguo"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es el mensaje principal de esta leyenda?",
+            "options": [
+                "a) Que el maíz debe cultivarse siempre",
+                "b) Que los humanos deben respetar la tierra y sus dones",
+                "c) Que el oro es más valioso que la comida",
+                "d) Que los dioses son crueles"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}
