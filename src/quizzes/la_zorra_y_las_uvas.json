@@ -1,0 +1,61 @@
+{
+    "book_id": 27,
+    "book_title": "La Zorra y las Uvas",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué hace la zorra al ver las uvas colgando del árbol?",
+            "options": [
+                "a) Las ignora",
+                "b) Intenta alcanzarlas saltando",
+                "c) Pide ayuda a otros animales",
+                "d) Rompe el árbol"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué no puede la zorra comer las uvas?",
+            "options": [
+                "a) Porque están envenenadas",
+                "b) Porque están muy altas",
+                "c) Porque están verdes",
+                "d) Porque ya están podridas"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Cómo reacciona la zorra después de fallar varias veces?",
+            "options": [
+                "a) Se da por vencida y se aleja",
+                "b) Dice que no quería esas uvas porque están agrias",
+                "c) Se sienta a llorar",
+                "d) Busca una escalera"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿Cuál es la moraleja principal de esta fábula?",
+            "options": [
+                "a) No debes confiar en las zorras",
+                "b) Es fácil despreciar lo que no puedes tener",
+                "c) Las uvas son buenas para la salud",
+                "d) Los animales siempre tienen hambre"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Qué actitud muestra la zorra al final de la historia?",
+            "options": [
+                "a) Alegría",
+                "b) Indiferencia fingida",
+                "c) Enfado real",
+                "d) Tristeza sincera"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

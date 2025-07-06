@@ -1,0 +1,62 @@
+{
+    "book_id": 21,
+    "book_title": "El Gato con Botas",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Quién es el protagonista del cuento?",
+            "options": [
+                "a) Un campesino",
+                "b) Un gato inteligente",
+                "c) Un rey poderoso",
+                "d) Un molinero"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué pide el gato a su amo antes de comenzar sus aventuras?",
+            "options": [
+                "a) Una espada",
+                "b) Un caballo",
+                "c) Botas",
+                "d) Un traje elegante"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 3,
+            "question": "¿Para qué usa el gato las botas?",
+            "options": [
+                "a) Para asustar al rey",
+                "b) Para caminar sin dejar huellas",
+                "c) Para cazar animales mágicos",
+                "d) Para parecer un noble cazador",
+                "e) Para impresionar a la princesa"
+            ],
+            "correct_answer": 4
+        },
+        {
+            "id": 4,
+            "question": "¿Cómo logra el gato convertir a su amo en una figura importante?",
+            "options": [
+                "a) Le da dinero robado",
+                "b) Lo viste de rey",
+                "c) Miente sobre sus riquezas y engaña al rey",
+                "d) Le enseña a hablar bien"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 5,
+            "question": "¿Qué criatura engaña el gato para impresionar al rey?",
+            "options": [
+                "a) Un dragón",
+                "b) Un ogro",
+                "c) Un gigante",
+                "d) Un hechicero"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

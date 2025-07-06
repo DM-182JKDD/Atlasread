@@ -1,0 +1,61 @@
+{
+    "book_id": 12,
+    "book_title": "El Cadejo",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Cuántos tipos de cadejos existen según la leyenda?",
+            "options": [
+                "a) Uno solo",
+                "b) Dos: uno blanco y uno negro",
+                "c) Tres: blanco, negro y gris",
+                "d) Cuatro de diferentes colores"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué representa el cadejo blanco?",
+            "options": [
+                "a) Mala suerte",
+                "b) Protección",
+                "c) Venganza",
+                "d) Enfermedad"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Para qué aparece el cadejo negro según la leyenda?",
+            "options": [
+                "a) Para proteger a los borrachos",
+                "b) Para castigar a los caminantes",
+                "c) Para asustar a los animales",
+                "d) Para guiar a los niños perdidos"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 4,
+            "question": "¿En qué región es más popular la leyenda del cadejo?",
+            "options": [
+                "a) México",
+                "b) Centroamérica",
+                "c) España",
+                "d) Argentina"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Qué forma tiene el cadejo?",
+            "options": [
+                "a) De un gato",
+                "b) De un perro",
+                "c) De un lobo",
+                "d) De un zorro"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

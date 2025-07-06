@@ -1,0 +1,61 @@
+{
+    "book_id": 20,
+    "book_title": "El Pan Compartido",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué pregunta un joven a Jesús?",
+            "options": [
+                "a) ¿Cómo ser rico?",
+                "b) ¿Cómo tener poder?",
+                "c) ¿Qué hacer para alcanzar la vida eterna?",
+                "d) ¿Cómo construir una casa?"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 2,
+            "question": "¿Qué le dice Jesús al joven que debe hacer para ser digno?",
+            "options": [
+                "a) Viajar y conocer mundo",
+                "b) Vender sus bienes y dárselos a los pobres",
+                "c) Construir un templo",
+                "d) Ayunar durante 40 días"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Cómo reacciona el joven rico después de escuchar a Jesús?",
+            "options": [
+                "a) Se alegra y lo sigue",
+                "b) Se ofende y lo insulta",
+                "c) Se entristece y se va",
+                "d) Le da gracias y regresa a su casa"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 4,
+            "question": "¿Por qué no acepta el joven seguir a Jesús?",
+            "options": [
+                "a) Porque tiene muchos amigos",
+                "b) Porque tiene muchas posesiones",
+                "c) Porque no cree en Dios",
+                "d) Porque tiene miedo"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Qué enseñanza deja esta historia?",
+            "options": [
+                "a) La riqueza siempre trae felicidad",
+                "b) Las posesiones materiales pueden ser un obstáculo para valores más altos",
+                "c) No debes confiar en desconocidos",
+                "d) Los pobres son mejores que los ricos"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

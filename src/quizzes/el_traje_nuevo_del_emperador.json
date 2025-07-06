@@ -1,0 +1,61 @@
+{
+    "book_id": 18,
+    "book_title": "El Traje Nuevo del Emperador",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué ofrecen los dos estafadores al emperador?",
+            "options": [
+                "a) Una corona dorada",
+                "b) Un traje invisible para tontos",
+                "c) Un caballo mágico",
+                "d) Un palacio nuevo"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Quién puede ver el traje según los estafadores?",
+            "options": [
+                "a) Todos los ciudadanos",
+                "b) Solo los inteligentes y competentes",
+                "c) Solo los ricos",
+                "d) Solo los reyes"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Por qué nadie dice que no ve el traje?",
+            "options": [
+                "a) Por vergüenza y miedo a parecer tonto",
+                "b) Porque les gusta el diseño",
+                "c) Porque sí pueden verlo",
+                "d) Porque tienen sueño"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "id": 4,
+            "question": "¿Quién dice la verdad sobre el traje?",
+            "options": [
+                "a) Un sabio anciano",
+                "b) Un niño inocente",
+                "c) El ministro principal",
+                "d) El rey vecino"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la moraleja de esta fábula?",
+            "options": [
+                "a) No confíes en extraños",
+                "b) Decir la verdad siempre importa",
+                "c) Las apariencias son más importantes que la realidad",
+                "d) Los niños deben callarse"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}

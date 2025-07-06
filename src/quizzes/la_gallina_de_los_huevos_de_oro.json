@@ -1,0 +1,61 @@
+{
+    "book_id": 23,
+    "book_title": "La Gallina de los Huevos de Oro",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué hace especial a la gallina?",
+            "options": [
+                "a) Canta muy bien",
+                "b) Pone huevos de oro",
+                "c) Vuela alto",
+                "d) Es inmortal"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué el hombre mata a la gallina?",
+            "options": [
+                "a) Porque ya no ponía huevos",
+                "b) Para encontrar más oro dentro de ella",
+                "c) Por accidente",
+                "d) Porque se enfermó"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué encuentra el hombre al matarla?",
+            "options": [
+                "a) Más huevos de oro",
+                "b) Una carta secreta",
+                "c) Nada, solo carne común",
+                "d) Un tesoro escondido"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "id": 4,
+            "question": "¿Cuál es la moraleja del cuento?",
+            "options": [
+                "a) No confiar en extraños",
+                "b) La avaricia no tiene límites",
+                "c) No mates animales",
+                "d) La paciencia es una virtud; la codicia lo pierde todo"
+            ],
+            "correct_answer": 4
+        },
+        {
+            "id": 5,
+            "question": "¿Qué le pasa al hombre al final del cuento?",
+            "options": [
+                "a) Se vuelve rico",
+                "b) Se arrepiente y llora",
+                "c) Queda igual o peor que antes",
+                "d) Viaja a otro país"
+            ],
+            "correct_answer": 3
+        }
+    ]
+}

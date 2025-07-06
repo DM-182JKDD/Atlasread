@@ -1,0 +1,61 @@
+{
+    "book_id": 29,
+    "book_title": "Pedro y el Lobo",
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué hace Pedro cuando quiere divertirse?",
+            "options": [
+                "a) Juega con las ovejas",
+                "b) Miente diciendo que viene el lobo",
+                "c) Canta canciones",
+                "d) Cuenta chistes"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 2,
+            "question": "¿Qué hacen los aldeanos al escuchar sus gritos?",
+            "options": [
+                "a) Lo ignoran",
+                "b) Van corriendo a ayudarlo",
+                "c) Se ríen y no vienen",
+                "d) Le piden comida"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 3,
+            "question": "¿Qué pasa cuando realmente aparece el lobo?",
+            "options": [
+                "a) Nadie viene a ayudarlo",
+                "b) Todos corren a defenderlo",
+                "c) El lobo se asusta y huye",
+                "d) Pedro logra ahuyentarlo solo"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "id": 4,
+            "question": "¿Por qué los aldeanos no le creen cuando el lobo llega de verdad?",
+            "options": [
+                "a) Porque está oscuro y no ven bien",
+                "b) Porque ya lo han visto mentir antes",
+                "c) Porque no quieren ayudar",
+                "d) Porque están ocupados"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "id": 5,
+            "question": "¿Cuál es la enseñanza de esta fábula?",
+            "options": [
+                "a) Que los animales pueden hablar",
+                "b) Que hay que decir siempre la verdad",
+                "c) Que los lobos son peligrosos",
+                "d) Que las ovejas deben estar alertas"
+            ],
+            "correct_answer": 2
+        }
+    ]
+}
